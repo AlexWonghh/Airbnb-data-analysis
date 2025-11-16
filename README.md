@@ -5,7 +5,7 @@
 **Project Title:** *Unlocking the Secrets of Singapore Airbnb Market for GoTrip*  
 **Team:** Group Eggplant (Alex Ng, Alex Wong, Camen Ho, Yuki Chow)
 
-This project is a final project for Junior Data Analyst Programme organized by Generation Hong Kong, which analyzes **Singapore’s short-term rental market** using **June 2025 Airbnb public data (~3,600 listings)** and **11.62 million inbound tourist arrivals (Jan–Aug 2025)**. The goal is to support **GoTrip**, an Online Travel Agent (OTA), in:
+This project is a final group project for Junior Data Analyst Programme organized by Generation Hong Kong, which analyzes **Singapore’s short-term rental market** using **June 2025 Airbnb public data (~3,600 listings)** and **11.62 million inbound tourist arrivals (Jan–Aug 2025)**. The goal is to support **GoTrip**, an Online Travel Agent (OTA), in:
 
 1. Identifying **market gaps** for strategic entry into Singapore.
 2. **Maximizing revenue** through optimized pricing, positioning, and host partnerships.
