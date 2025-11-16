@@ -96,10 +96,15 @@ GoTrip seeks to compete with Airbnb in Singapore. Key business questions address
 ### Visualizations (Power BI Dashboard)
 
 - **Supply-Demand bar chart** by neighborhood  
-  <img width="1280" height="607" alt="image" src="https://github.com/user-attachments/assets/0a18bb04-ba44-4ea6-b134-c49d9c2a4521" />
+   <img width="1266" height="695" alt="image" src="https://github.com/user-attachments/assets/88d97f26-2eb9-4139-86f0-c473e2c02a57" />
+
+  
+- **Price distribution in Singapore**  
+  <img width="1275" height="712" alt="image" src="https://github.com/user-attachments/assets/16c8341e-5aad-4c31-ab95-95c1b1f36137" />
 
 - **Price Optimization**  
   <img width="1251" height="614" alt="image" src="https://github.com/user-attachments/assets/c577076d-aacf-46e6-b0a6-b6e4154f165d" />
+
 
 
 
